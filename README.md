@@ -1,4 +1,4 @@
-# CalculadoraCMD 🖩
+# CalculadoraCMD 🧮
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/samueldelorenzi/CalculadoraCMD?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/samueldelorenzi/CalculadoraCMD?style=for-the-badge)
